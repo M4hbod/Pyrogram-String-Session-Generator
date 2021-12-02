@@ -1,4 +1,3 @@
 heroku3
-pip3 install -U pyrogram
 pyromod
 TgCrypto
