@@ -42,7 +42,7 @@ async def genStr(_, msg: Message):
     if await is_cancel(msg, hash.text):
         return
     if not len(hash.text) >= 30:
-        await msg.reply("`API_HASH` اشتباهه.\n/start رو بفرست تتا دوباره شروع کنیم.")
+        await msg.reply("`API_HASH` اشتباهه.\n/start رو بفرست تا دوباره شروع کنیم.")
         return
     api_hash = hash.text
     await hash.delete()
