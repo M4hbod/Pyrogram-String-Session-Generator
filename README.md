@@ -30,7 +30,7 @@ Generate Pyrogram String Session Using this bot.
 ### Note:
 This was First made by [Krishna Singhal](https://github.com/Krishna-Singhal). Thanks a lot for his nice Bot. [Abir Hasan
 ](https://github.com/AbirHasan2005) just made some little changes to make the bot more good looking. Also [Abir Hasan
-](https://github.com/AbirHasan2005) added [Deploy to Heroku](https://github.com/AbirHasan2005/TG-String-Session#deploy-now) Button for easy Deploies. I don't own this repo fully. [I](https://github.com/M4hbod) just translated it and edited some parts ;)
+](https://github.com/AbirHasan2005) added [Deploy to Heroku](https://github.com/AbirHasan2005/TG-String-Session#deploy-now) Button for easy Deploies. I don't own this repo. [I](https://github.com/M4hbod) just translated it and edited some parts ;)
 
 ## Follow on:
 <p align="left">
